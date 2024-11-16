@@ -1,0 +1,101 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #084d6e;
+    color: aliceblue;
+}
+
+.container{
+    max-width: 1100px;
+    background-color: rgba(0,0,0, 0.3);
+    position: relative;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+a{
+    text-decoration:none;
+    color: red;
+    font-weight: bold;
+}
+
+.header{
+    text-align: center;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+.primeiro-paragrafo{
+    font-style:italic;
+}
+
+.imagem-principal{
+    text-align: center;
+}
+
+.imgbanda{
+    width: 1000px;
+    margin-top: 30px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+
+.imgalbum{
+    width: 1000px;
+    height: 800px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+}
+
+.biografia-container{
+    padding: 20px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+    border-color: rgb(131, 0, 0);
+}
+
+.container-sitacao{
+    background-color:rgba(255,255,255, 0.3);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+}
+
+.container-sitacao blockquote{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container-sitacao p{
+    text-align: start;
+    padding-left: 30px;
+    font-style: italic;
+}
+
+.membros-atuais{
+    padding: 20px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+    border-color: rgb(131, 0, 0) ;
+
+}
+
+.img-bold{
+    text-align: center;
+    font-weight: bold;
+    margin: 25px 0 ;
+}
+
+.mais-informacoes{
+    background-color:rgba(255,255,255, 0.3);
+    border-radius: 12px ;
+    padding: 25px 25px
+}
