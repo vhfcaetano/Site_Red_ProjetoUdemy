@@ -4,6 +4,7 @@ html {
     color: aliceblue;
 }
 
+/* Aparencia principal do site */
 .container{
     max-width: 1100px;
     background-color: rgba(0,0,0, 0.3);
@@ -22,9 +23,13 @@ a{
     font-weight: bold;
 }
 
+/* cabeçalho do site */
+
 .header{
     text-align: center;
 }
+
+/* Titulo Principal */
 
 .titulo{
     font-size: 40px;
@@ -33,6 +38,8 @@ a{
 .primeiro-paragrafo{
     font-style:italic;
 }
+
+/* Primeira imagem */
 
 .imagem-principal{
     text-align: center;
@@ -53,6 +60,8 @@ a{
     margin-bottom: 12px;
 }
 
+/* Biografia */
+
 .biografia-container{
     padding: 20px 0;
     margin: 25px 0;
@@ -60,6 +69,8 @@ a{
     border-bottom: 1px dashed #ddd;
     border-color: rgb(131, 0, 0);
 }
+
+/* Primeira Citação */
 
 .container-sitacao{
     background-color:rgba(255,255,255, 0.3);
@@ -79,6 +90,8 @@ a{
     font-style: italic;
 }
 
+/* Segunda Sitação */
+
 .membros-atuais{
     padding: 20px 0;
     margin: 25px 0;
@@ -88,11 +101,15 @@ a{
 
 }
 
+/* Segunda Imagem */
+
 .img-bold{
     text-align: center;
     font-weight: bold;
     margin: 25px 0 ;
 }
+
+/* Mais informações da Banda */
 
 .mais-informacoes{
     background-color:rgba(255,255,255, 0.3);
